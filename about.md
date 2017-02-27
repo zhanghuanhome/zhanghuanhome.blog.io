@@ -7,25 +7,18 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://om0s5wipx.bkt.clouddn.com/blog/image/head.jpeg" align="center"></p>
 </center>
 
 我是张欢
 
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：www.zhanghuanhome.com](www.zhanghuanhome.com)
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://om0s5wipx.bkt.clouddn.com/blog/image/mywechat.jpeg" align="center"></p>
 </center>
 
 

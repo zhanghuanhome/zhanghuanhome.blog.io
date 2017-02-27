@@ -16,11 +16,11 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
+douban_username:  zhanghuan
 twitter_username: feat
-github_username: cnfeat
+github_username: zhanghuan
 facebook_username: 
-weibo_username: cnfeat 
+weibo_username: zhanghuan
 zhihu_username: feat
 
 # Build settings  
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "zhanghuan"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : zhanghuan
   disqus :
-      short_name : cnfeat
+      short_name : zhanghuan
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
