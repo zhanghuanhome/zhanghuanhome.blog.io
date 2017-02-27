@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 天道酬勤-立即行动
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "张欢|读而立·写而生"
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://zhanghuanhome"
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " ZhagnHuan"
+  email: TheBlueSky123@gmail.com
+  bio: "天道酬勤，皆有可能"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png

@@ -2,7 +2,7 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##天道酬勤-立即行动
 
 我是张欢，博客：[www.zhanghunahome.com](zhanghunahome.com)
 
