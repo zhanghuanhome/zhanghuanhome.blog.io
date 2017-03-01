@@ -57,8 +57,8 @@
       <file leaf-file-name="2015-12-17-what-i-give-is-what-i-get.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-12-17-what-i-give-is-what-i-get.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77102804">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2990654">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -604,12 +604,12 @@
       <option name="number" value="Default" />
       <updated>1488167940454</updated>
       <workItem from="1488167941681" duration="5718000" />
-      <workItem from="1488184210675" duration="5565000" />
+      <workItem from="1488184210675" duration="5693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11283000" />
+    <option name="totallyTimeSpent" value="11411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -949,8 +949,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-12-17-what-i-give-is-what-i-get.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77102804">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2990654">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>
