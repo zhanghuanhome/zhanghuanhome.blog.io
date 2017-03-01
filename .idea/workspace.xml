@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b59ca416-2dbb-4f75-a160-f4816c4a8462" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-17-what-i-give-is-what-i-get.md" afterPath="$PROJECT_DIR$/_posts/2015-12-17-what-i-give-is-what-i-get.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="zhanghuanhome.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -605,12 +604,12 @@
       <option name="number" value="Default" />
       <updated>1488167940454</updated>
       <workItem from="1488167941681" duration="5718000" />
-      <workItem from="1488184210675" duration="5440000" />
+      <workItem from="1488184210675" duration="5565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11158000" />
+    <option name="totallyTimeSpent" value="11283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
