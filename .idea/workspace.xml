@@ -67,8 +67,8 @@
       <file leaf-file-name="2015-12-30-android.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-12-30-android.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3271028">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.28037384">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2015-12-30-android.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-17-what-i-give-is-what-i-get.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-12-30-android.md" />
       </list>
     </option>
   </component>
@@ -592,12 +592,12 @@
       <option name="number" value="Default" />
       <updated>1488167940454</updated>
       <workItem from="1488167941681" duration="5718000" />
-      <workItem from="1488184210675" duration="6862000" />
+      <workItem from="1488184210675" duration="7408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12580000" />
+    <option name="totallyTimeSpent" value="13126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -634,6 +634,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/backtop.js">
@@ -945,8 +949,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-12-30-android.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3271028">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.28037384">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding />
         </state>
       </provider>
