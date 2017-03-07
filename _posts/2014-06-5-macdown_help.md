@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 如何正确地练习写作
+title: MacDown 基本使用方法
 date: 2015-04-02
 categories: blog
 tags: [工具,知识管理]
 description: Mac down的使用方法
 ---
 
-# MacDown 基本使用方法
+MacDown 基本使用方法
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
 
