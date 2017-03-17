@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b59ca416-2dbb-4f75-a160-f4816c4a8462" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview.html" afterPath="$PROJECT_DIR$/Interview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zhanghuanhome.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -609,12 +607,12 @@
       <workItem from="1488184210675" duration="8664000" />
       <workItem from="1488902198451" duration="1983000" />
       <workItem from="1489137857156" duration="436000" />
-      <workItem from="1489714474120" duration="873000" />
+      <workItem from="1489714474120" duration="1134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17674000" />
+    <option name="totallyTimeSpent" value="17935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
