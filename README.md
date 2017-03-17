@@ -2,7 +2,7 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##天道酬勤-立即行动
+##传奇-今天进步了吗
 
 我是张欢，博客：[www.zhanghunahome.com](zhanghunahome.com)
 
