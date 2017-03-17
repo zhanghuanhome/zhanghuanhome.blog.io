@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MacDown 基本使用方法
-date: 2015-04-02
+date: 2015-06-05
 categories: blog
 tags: [工具,知识管理]
 description: Mac down的使用方法
