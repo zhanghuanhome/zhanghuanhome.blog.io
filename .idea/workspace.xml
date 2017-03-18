@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b59ca416-2dbb-4f75-a160-f4816c4a8462" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-5-macdown_help.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-27-android.md" afterPath="$PROJECT_DIR$/_posts/2016-04-27-android.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-25-android.md" afterPath="$PROJECT_DIR$/_posts/2016-05-25-android.md" />
-    </list>
+    <list default="true" id="b59ca416-2dbb-4f75-a160-f4816c4a8462" name="Default" comment="" />
     <ignored path="zhanghuanhome.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
